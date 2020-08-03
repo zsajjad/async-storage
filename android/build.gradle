@@ -67,5 +67,7 @@ repositories {
 
 dependencies {
     //noinspection GradleDynamicVersion
-    implementation 'com.facebook.react:react-native:+'  // From node_modules
+    implementation 'com.facebook.infer.annotation:infer-annotation:0.11.2'
+    implementation "com.walmartlabs.ern:react-native:0.63.2"
+    // implementation 'com.facebook.react:react-native:+'  // From node_modules
 }
