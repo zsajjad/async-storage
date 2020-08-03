@@ -30,7 +30,7 @@ project.xcworkspace
 local.properties
 *.iml
 android/build
-android/gradle/
+# android/gradle/
 android/gradlew
 android/gradlew.bat
 
